@@ -1,1 +1,1 @@
-Technical task with Nodejs (Express, PostgreSQL, TypeScript, React, Antd, Tailwind)
+Technical task with Nodejs (Express, PostgreSQL, TypeScript, React, Antd, Tailwind, Docker)
